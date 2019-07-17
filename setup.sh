@@ -13,4 +13,4 @@ echo "set tabstop=4" >> ~/.vimrc
 echo "set noexpandtab" >> ~/.vimrc
 echo "set number" >> ~/.vimrc
 echo "set listchars=tab:▸\ ,trail:·,precedes:←,extends:→" >> ~/.vimrc
-echo "colorscheme ir_black"
+echo "colorscheme ir_black" >> ~/.vimrc
